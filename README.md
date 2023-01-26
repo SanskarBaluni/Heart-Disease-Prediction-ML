@@ -1,7 +1,7 @@
 # Heart-Disease-Prediction :
 
 * This project is combination of data analysis and machine learning. 
-* In this project First I try to find features and make different three type of models. 
+* Given the medical data of a person we have to predict whether or not they suffer from a heart disease
 
 ## Exploratory data analysis (EDA) 
 1. Model training
@@ -12,23 +12,17 @@
 6. Cross-validation
 
 ## Libraries used:  
-1. pandas 
+1. Pandas 
 2. Matplotlib 
 3. NumPy 
 4. Scikit-Learn
 5. Seaborn 
 
 ## Models used for comparing the results:
-*Logistic Regression - LogisticRegression()
-*K-Nearest Neighbors - KNeighboursClassifier()
-*RandomForest - RandomForestClassifier()
-
-* Do some analysis and finally getting accuracy of 86% on test data.
-* For this project you must have knowledge of 
-  * Logistic Regression
-  * Exploratory Data Analysis
-  * Corelation Matrix
-  * Plots of Seaborn
+  * Logistic Regression - LogisticRegression()
+  * K-Nearest Neighbors - KNeighboursClassifier()
+  * RandomForest - RandomForestClassifier()
+  
 * Dataset taken from kaggle
   https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-dataset
 
